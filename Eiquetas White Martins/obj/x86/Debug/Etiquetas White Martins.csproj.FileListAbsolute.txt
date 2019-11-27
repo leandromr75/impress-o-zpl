@@ -1,0 +1,40 @@
+C:\Users\TI\Desktop\C#\Eiquetas White Martins\Eiquetas White Martins\bin\x86\Debug\Etiquetas White Martins.exe.config
+C:\Users\TI\Desktop\C#\Eiquetas White Martins\Eiquetas White Martins\bin\x86\Debug\Etiquetas White Martins.exe
+C:\Users\TI\Desktop\C#\Eiquetas White Martins\Eiquetas White Martins\bin\x86\Debug\Etiquetas White Martins.pdb
+C:\Users\TI\Desktop\C#\Eiquetas White Martins\Eiquetas White Martins\obj\x86\Debug\Eiquetas_White_Martins.Form1.resources
+C:\Users\TI\Desktop\C#\Eiquetas White Martins\Eiquetas White Martins\obj\x86\Debug\Etiquetas_White_Martins.Properties.Resources.resources
+C:\Users\TI\Desktop\C#\Eiquetas White Martins\Eiquetas White Martins\obj\x86\Debug\Etiquetas White Martins.csproj.GenerateResource.Cache
+C:\Users\TI\Desktop\C#\Eiquetas White Martins\Eiquetas White Martins\obj\x86\Debug\Etiquetas White Martins.exe
+C:\Users\TI\Desktop\C#\Eiquetas White Martins\Eiquetas White Martins\obj\x86\Debug\Etiquetas White Martins.pdb
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\Etiquetas White Martins\Eiquetas White Martins\bin\x86\Debug\Etiquetas White Martins.exe.config
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\Etiquetas White Martins\Eiquetas White Martins\bin\x86\Debug\Etiquetas White Martins.exe
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\Etiquetas White Martins\Eiquetas White Martins\bin\x86\Debug\Etiquetas White Martins.pdb
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\Etiquetas White Martins\Eiquetas White Martins\obj\x86\Debug\Etiquetas White Martins.csprojResolveAssemblyReference.cache
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\Etiquetas White Martins\Eiquetas White Martins\obj\x86\Debug\Eiquetas_White_Martins.Form1.resources
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\Etiquetas White Martins\Eiquetas White Martins\obj\x86\Debug\Etiquetas_White_Martins.Properties.Resources.resources
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\Etiquetas White Martins\Eiquetas White Martins\obj\x86\Debug\Etiquetas White Martins.csproj.GenerateResource.Cache
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\Etiquetas White Martins\Eiquetas White Martins\obj\x86\Debug\Etiquetas White Martins.exe
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\Etiquetas White Martins\Eiquetas White Martins\obj\x86\Debug\Etiquetas White Martins.pdb
+C:\Users\TI\Desktop\Etiquetas White Martins\Eiquetas White Martins\bin\x86\Debug\Etiquetas White Martins.exe.config
+C:\Users\TI\Desktop\Etiquetas White Martins\Eiquetas White Martins\bin\x86\Debug\Etiquetas White Martins.exe
+C:\Users\TI\Desktop\Etiquetas White Martins\Eiquetas White Martins\bin\x86\Debug\Etiquetas White Martins.pdb
+C:\Users\TI\Desktop\Etiquetas White Martins\Eiquetas White Martins\obj\x86\Debug\Etiquetas White Martins.csprojResolveAssemblyReference.cache
+C:\Users\TI\Desktop\Etiquetas White Martins\Eiquetas White Martins\obj\x86\Debug\Eiquetas_White_Martins.Form1.resources
+C:\Users\TI\Desktop\Etiquetas White Martins\Eiquetas White Martins\obj\x86\Debug\Etiquetas_White_Martins.Form2.resources
+C:\Users\TI\Desktop\Etiquetas White Martins\Eiquetas White Martins\obj\x86\Debug\Etiquetas_White_Martins.Properties.Resources.resources
+C:\Users\TI\Desktop\Etiquetas White Martins\Eiquetas White Martins\obj\x86\Debug\Etiquetas White Martins.csproj.GenerateResource.Cache
+C:\Users\TI\Desktop\Etiquetas White Martins\Eiquetas White Martins\obj\x86\Debug\Etiquetas White Martins.exe
+C:\Users\TI\Desktop\Etiquetas White Martins\Eiquetas White Martins\obj\x86\Debug\Etiquetas White Martins.pdb
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\White Martins Lotes O - I\Eiquetas White Martins\bin\x86\Debug\Etiquetas White Martins.exe.config
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\White Martins Lotes O - I\Eiquetas White Martins\obj\x86\Debug\Etiquetas White Martins.exe
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\White Martins Lotes O - I\Eiquetas White Martins\obj\x86\Debug\Etiquetas White Martins.pdb
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\White Martins Lotes O - I\White Martins Lotes O - I\Eiquetas White Martins\bin\x86\Debug\Etiquetas White Martins.exe.config
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\White Martins Lotes O - I\White Martins Lotes O - I\Eiquetas White Martins\obj\x86\Debug\Etiquetas White Martins.exe
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\White Martins Lotes O - I\White Martins Lotes O - I\Eiquetas White Martins\obj\x86\Debug\Etiquetas White Martins.pdb
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\White Martins Lotes O - I\White Martins Lotes O - I\Eiquetas White Martins\bin\x86\Debug\Etiquetas White Martins.exe
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\White Martins Lotes O - I\White Martins Lotes O - I\Eiquetas White Martins\bin\x86\Debug\Etiquetas White Martins.pdb
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\White Martins Lotes O - I\White Martins Lotes O - I\Eiquetas White Martins\obj\x86\Debug\Etiquetas White Martins.csprojResolveAssemblyReference.cache
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\White Martins Lotes O - I\White Martins Lotes O - I\Eiquetas White Martins\obj\x86\Debug\Eiquetas_White_Martins.Form1.resources
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\White Martins Lotes O - I\White Martins Lotes O - I\Eiquetas White Martins\obj\x86\Debug\Etiquetas_White_Martins.Form2.resources
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\White Martins Lotes O - I\White Martins Lotes O - I\Eiquetas White Martins\obj\x86\Debug\Etiquetas_White_Martins.Properties.Resources.resources
+C:\Users\TI\Desktop\C#\1 -Pasta de Trabalho\White Martins Lotes O - I\White Martins Lotes O - I\Eiquetas White Martins\obj\x86\Debug\Etiquetas White Martins.csproj.GenerateResource.Cache

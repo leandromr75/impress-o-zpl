@@ -1,0 +1,10 @@
+C:\Users\TI\Desktop\Etiquetas\Eiquetas White Martins\bin\Debug\Etiquetas White Martins.exe.config
+C:\Users\TI\Desktop\Etiquetas\Eiquetas White Martins\bin\Debug\Etiquetas White Martins.exe
+C:\Users\TI\Desktop\Etiquetas\Eiquetas White Martins\bin\Debug\Etiquetas White Martins.pdb
+C:\Users\TI\Desktop\Etiquetas\Eiquetas White Martins\obj\Debug\Etiquetas.csprojResolveAssemblyReference.cache
+C:\Users\TI\Desktop\Etiquetas\Eiquetas White Martins\obj\Debug\Eiquetas_White_Martins.Form1.resources
+C:\Users\TI\Desktop\Etiquetas\Eiquetas White Martins\obj\Debug\Etiquetas_White_Martins.Form2.resources
+C:\Users\TI\Desktop\Etiquetas\Eiquetas White Martins\obj\Debug\Etiquetas_White_Martins.Properties.Resources.resources
+C:\Users\TI\Desktop\Etiquetas\Eiquetas White Martins\obj\Debug\Etiquetas.csproj.GenerateResource.Cache
+C:\Users\TI\Desktop\Etiquetas\Eiquetas White Martins\obj\Debug\Etiquetas White Martins.exe
+C:\Users\TI\Desktop\Etiquetas\Eiquetas White Martins\obj\Debug\Etiquetas White Martins.pdb
